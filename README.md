@@ -13,7 +13,7 @@ This research applies a convergent mixed method, integrating qualitative content
 - Sample: 91,032 reviews, 3,607 tour programs
 - Analysis: Convergent mixed method (qualitative content analysis + big data analysis)
 
-  ![Figure 1](https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.2..jpg?raw=true)
+  <img src="https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.4..jpg?raw=true" alt="Figure 1" width="600"/>
 
 ## Key Findings
 - Identified four main themes of negative guide behaviors
