@@ -20,8 +20,9 @@ This research applies a convergent mixed method, integrating qualitative content
 - Proposed a theoretical framework categorizing negative experiences into dissatisfaction, distrust, and disappointment
 - Provided insights for policymakers, agencies, and destination marketers to improve service quality and responsible tourism practices
 
-  ![Figure 3](https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.3..jpg?raw=true)
-  ![Figure 5](https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.5..jpg?raw=true)
+  <img src="https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.3..jpg?raw=true" alt="Figure 3" width="600"/>
+  <img src="https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.5..jpg?raw=true" alt="Figure 5" width="600"/>
+
 
 
 ## Implications
