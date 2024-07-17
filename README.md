@@ -1,6 +1,6 @@
 # Unveiling the Dark Side of Safari Tourism: Negative Guide Behaviors from Tourists' Perspective
 
-![Figure 1](https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.4..jpg?raw=true)
+![Figure 1](https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.5..jpg?raw=true)
 
 ## Abstract
 This research applies a convergent mixed method, integrating qualitative content analysis with big data analysis, to examine 91,032 reviews and 3,607 tour programs from Safaribookings. The study develops a theoretical framework categorizing negative guide behaviors in safari tourism into four main themes:
